@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "195096574072",
+    "firebase_url": "https://tweetie-7fd2f.firebaseio.com",
+    "project_id": "tweetie-7fd2f",
+    "storage_bucket": "tweetie-7fd2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195096574072:android:3a4401b811f3ac98b9558d",
+        "android_client_info": {
+          "package_name": "com.example.tweetieatwitterclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195096574072-qb4pn8v876el84q09vfe1nuhlmoqe9i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-3y2g0dvy1WZspaRx49f947HqBwt3QMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195096574072-qb4pn8v876el84q09vfe1nuhlmoqe9i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
